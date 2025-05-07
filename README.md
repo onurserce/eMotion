@@ -44,6 +44,6 @@ Use the `VAME` module and traditional machine learning approaches to analyze the
 ![setup_overview.jpg](doc_images/setup_overview.jpg)
 
 ### Acknowledgements
-- This project was developed in the lab of [Nadine Gogolla](https://www.mackenziemathislab.org/) at Max Planck Institute of Biological Intelligence (former Neurobiology) during my M.Sc. thesis and further developed (into 3D) during my PhD. 
+- This project was developed in the lab of Nadine Gogolla at Max Planck Institute of Biological Intelligence (former Neurobiology) during my M.Sc. thesis and further developed (into 3D) during my PhD. 
 - Thanks to [Nejc Dolensek](https://github.com/NDolensek) for his help with building the acquisition computer and the fruitful discussions.
 - Thanks to Stoyo Karamihalev for the emotipose logo.

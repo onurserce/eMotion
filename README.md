@@ -1,3 +1,4 @@
+
 ![emotipose.png](doc_images/emotipose.png)
 
 #### An open-source Python library for deep analysis of animal behaviour.
@@ -6,6 +7,7 @@ The code is provided as-is and may require significant expertise of the dependen
 Should you need help, feel free to open an issue and I will do my best to provide guidance within my capabilities.
 
 ![mouse_triangulation_3d.png](doc_images/mouse_triangulation_3d.png)
+
 ![output.png](doc_images/output.png)
 
 It relies on following packages:

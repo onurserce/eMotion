@@ -10,7 +10,7 @@ Should you need help, feel free to open an issue and I will do my best to provid
 
 ![output.png](doc_images/output.png)
 
-It relies on following packages:
+emotipose relies on following packages:
 - [campy](https://github.com/onurserce/campy/tree/flir) for video acquisition from an arbitrary number of Flir/Basler machine-vision cameras with hardware accelerated encoding (CPU or Nvidia GPU)
 - [DeepLabCut](https://www.mackenziemathislab.org/deeplabcut) for markerless pose estimation
 - [argus](https://argus.web.unc.edu/) for wand calibration of cameras and triangulation of keypoints to 3D space

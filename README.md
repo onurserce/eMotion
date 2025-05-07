@@ -34,14 +34,14 @@ Refer to the DLC documentation for the training and inference process.
 ### 3) Create the 3D space
 To create the 3D space, you need to calibrate the cameras and triangulate a set of keypoints that are stable (meaning that there is no variation caused by machine inference). For this, I've built a calibration wand with two LEDs using a chopstick, syringe, and a battery:
 
-![wands.png](doc_images/wands.png)
+![wands.jpg](doc_images/wands.jpg)
 
 Afterwards, use the `WandCalibration` module to calibrate the cameras and triangulate the keypoints. The wand should be visible in all cameras. The calibration module will output 3D coordinates relative to a camera or point of your choice.
 
 ### 4) Analyze the data
 Use the `VAME` module and traditional machine learning approaches to analyze the data. `VAME` will output a set of behavioral postures that can be used for further analysis (e.g. timeseries modeling of postural syllables, model building, statistical analysis etc.).
 
-![setup_overview.png](doc_images/setup_overview.png)
+![setup_overview.jpg](doc_images/setup_overview.jpg)
 
 ### Acknowledgements
 - This project was developed in the lab of [Nadine Gogolla](https://www.mackenziemathislab.org/) at Max Planck Institute of Biological Intelligence (former Neurobiology) during my M.Sc. thesis and further developed (into 3D) during my PhD. 

@@ -1,5 +1,5 @@
 
-![emotipose.png](doc_images/emotipose.png)
+# ![emotipose.png](doc_images/emotipose.png)
 
 #### An open-source Python library for deep analysis of animal behaviour.
 The project is discontinued and the code is not maintained anymore.

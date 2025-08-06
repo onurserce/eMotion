@@ -1,8 +1,8 @@
+#### EmotiPose/eMotion is an open-source Python library for the deep analysis of animal behaviour.
 
 # ![emotipose.png](doc_images/emotipose.png)
 
-#### An open-source Python library for deep analysis of animal behaviour.
-The project is discontinued and the code is not maintained anymore.
+*Note:* The project is discontinued and the code is not maintained anymore.
 The code is provided as-is and may require significant expertise of the dependency libraries and the conceptual framework of neuroscientific analysis of animal behavior.
 Should you need help, feel free to open an issue and I will do my best to provide guidance within my capabilities.
 
